@@ -1,0 +1,3 @@
+nombre,peso,altura
+pepe,12,54
+maria,34,45
